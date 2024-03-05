@@ -1,4 +1,4 @@
-const apiUrl = 'http://api.valantis.store:40000/';
+const apiUrl = 'https://api.valantis.store:41000/';
 const password = 'Valantis';
 
 const quantityProductsOnPage = 50;
